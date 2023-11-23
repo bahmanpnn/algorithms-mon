@@ -1,5 +1,5 @@
 """
-    this algorithm is try to find best profit in sequences.if there is no profit must return 0
+    this algorithm tries to find best profit in sequences.if there is no profit must return 0
     [7,1,5,3,6,4] ==> 5
     [9,7,6,4,3,1] ==> 0
 """
